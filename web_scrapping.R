@@ -1,5 +1,3 @@
-install.packages("ggplot2")
-install.packages("tibble")
 library(rvest)
 library(ggplot2)
 library(tibble)
